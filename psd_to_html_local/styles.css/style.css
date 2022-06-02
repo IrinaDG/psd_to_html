@@ -1,4 +1,27 @@
-#hero-section{
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     
-    color:aqua;
+}
+
+
+.button-section{
+justify-content:space-around;
+color: white;
+font-family: 'Times New Roman', Times, serif;
+align-items: center;
+
+}
+
+.button-section a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 14px;
+
+}
+
+#home-button{
+    color:aqua
+    
 }
